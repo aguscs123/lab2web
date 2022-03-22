@@ -2,10 +2,10 @@
 ## CSS DASAR
 
 ### Mendeklarasikan CSS Internal
-![img]SS/internal.png
+![Gambar 1](SS/internal.png)
 
 #### Menambah inline CSS
-![img]SS/inline.png
+![Gambar 2](SS/inline.png)
 
 ##### Membuat CSS eksternal dan Menambah CSS Selector
-![img]SS/S.png
+![Gambar 3](SS/S.png)
