@@ -9,3 +9,6 @@
 
 ##### Membuat CSS eksternal dan Menambah CSS Selector
 ![Gambar 3](SS/S.png)
+
+###### Hasil
+![Gambar 4](SS/CS.png)
